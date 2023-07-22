@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Udaipur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2022-10-31T15:59:59.138Z",
+      "notes": "Lake City",
+      "position": {
+        "lat": 24.5854,
+        "lng": 73.7125
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Bangalore",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2020-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 12.9716,
+        "lng": 77.5946
+      },
+      "id": 739303856
+    },
+    {
+      "cityName": "Kuala Lumpur",
+      "country": "Malaysia",
+      "emoji": "🇲🇾",
+      "date": "2023-07-21T15:44:14.739Z",
+      "notes": "Best city",
+      "position": {
+        "lat": "3.1466866143456196",
+        "lng": "101.69219970703126"
+      },
+      "id": 739303857
+    }
+  ]
+}
